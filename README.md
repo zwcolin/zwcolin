@@ -26,9 +26,10 @@ I love work-life balance ❤️
 📌 Meta Learning
 
 ⚙️ ML Optimization
-
+<!---
 <p align="center">
   <img src ="https://github-readme-stats.vercel.app/api?username=zwcolin&show_icons=true&count_private=true&theme=default&hide_border=true&include_all_commits=true">
   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=zwcolin&layout=compact&hide_border=true&langs_count=10&count_private=true&show_icons=true">
 </p>
+--->
 </div>
