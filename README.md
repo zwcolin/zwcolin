@@ -11,9 +11,11 @@ My Chinese name is **王子睿 (Zirui Wang)**
 
 I am a second-year undergraduate student double majoring in **Data Science** and **Cognitive Science**
 
-I am now studying, teaching, and researching at **University of California, San Diego** 🔱
+I am now studying, tutoring, and researching at **University of California, San Diego** 🔱
 
 I produce **EDM** and I workout **every day** 💪
+
+I'm also an amateur stock trader 📈
 
 I love work-life balance ❤️
 
@@ -26,6 +28,7 @@ I love work-life balance ❤️
 📌 Meta Learning
 
 ⚙️ ML Optimization
+
 <!---
 <p align="center">
   <img src ="https://github-readme-stats.vercel.app/api?username=zwcolin&show_icons=true&count_private=true&theme=default&hide_border=true&include_all_commits=true">
