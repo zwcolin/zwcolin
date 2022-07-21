@@ -7,12 +7,6 @@
 
 Pronouns: He/Him/His
 
-My Chinese name is **王子睿 (Zirui Wang)**
-
-I am a third-year undergraduate student double majoring in **Data Science** and **Cognitive Science**
-
-I am now studying, tutoring, and researching at **University of California, San Diego** 🔱
-
 <!---
 <p align="center">
   <img src ="https://github-readme-stats.vercel.app/api?username=zwcolin&show_icons=true&count_private=true&theme=default&hide_border=true&include_all_commits=true">
